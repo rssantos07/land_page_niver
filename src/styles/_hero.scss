@@ -35,19 +35,10 @@
         text-align: center;
     }
 
-    &__logo {
-        margin: 0 auto;
-        display: block;
-        height: 80px;
-    }
-
 
     @media (max-width: 640px){
         padding: 40px 0;
-        &__logo {
-            height: 40px;
-        }
-
+        
         &__text {
             font-size: 22px;
             line-height: 24px;
